@@ -8,11 +8,13 @@
 
 ## 작동
 
-![image](https://user-images.githubusercontent.com/110883172/202864592-8c726893-7d02-43f8-ba7c-aec9aa3dd420.png)
+![Circuit_design_Cool_Turing-Bigery___Tinkercad_외_페이지_1개_-_개인_3_-_Microsoft__Edge_2022-11-20_02-33-07_AdobeExpress](https://user-images.githubusercontent.com/110883172/202865041-65465d80-15b1-41d7-aed9-59c42bc0c6e8.gif)
+
 
 </br>
 
-![image](https://user-images.githubusercontent.com/110883172/202864600-b0508640-8bd3-41c3-8974-7dde1fa868bb.png)
+![Circuit_design_Cool_Turing-Bigery___Tinkercad_외_페이지_1개_-_개인_3_-_Microsoft__Edge_2022-11-20_02-33-07_AdobeExpress (1)](https://user-images.githubusercontent.com/110883172/202865042-45d2c15b-2622-4834-87cd-f962e2df0554.gif)
+
 
 
 - 왼쪽의 빨간 LED가 1층이다, 중간이 2층 오른쪽이 3층이다
